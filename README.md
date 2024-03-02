@@ -1,2 +1,2 @@
-# TokuRaku-Releases
+# TokuRaku
 Tokuraku public repository with apk releases, news etc...
