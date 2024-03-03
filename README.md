@@ -22,7 +22,7 @@ For now, TokuRaku isn't on the playstore. You can download the beta version from
 
 ## How To Use
 * Choose a PDF file made with japanese characters.
-* In the PDFviewer make a long press near the characters you want to recognize and drag the box. Release the press when you're done.
+* In the PDF viewer make a long press near the characters you want to recognize and drag the box. Release the press when you're done.
 * In the pop-up dialog, select the wanted kanjis and click on the "+" button.
 * double-click on the page to display the searched kanjis. To display more details, click on a kanji card.  
 * you can navigate through pages by clicking on the page, then on the page indicator.
