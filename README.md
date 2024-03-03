@@ -10,9 +10,9 @@ As a Japanese language learner and lover of Japanese culture, I sometimes read n
 in Japanese. However it can be a very tiresome experience, as kanjis (the japanese alphabet inspired by
 Chinese) are numerous and impossible to read if you haven't memorized them (and there are thousands of them!).
 Thus, Tokuraku is Japanese reading app with the particularity of using OCR (Optical Character Recognition)
-to recognizes kanjis in PDF images and translate them to the reader. The searched kanjis are kept on the PDF
+to recognize kanjis in PDFs and translate them to the reader. The searched kanjis are kept on the PDF
 page they were searched on and can be consulted later on. TokuRaku is made for advanced learners who would like
-a way to read japanese without having to draw unknown kanjis or search for them in another app while reading.
+a way to read japanese, without having to draw unknown kanjis or search for them in another app while reading.
 It can also be a way to learn more kanjis quickly.
 
 ## How To Install
@@ -25,7 +25,7 @@ For now, TokuRaku isn't on the playstore. You can download the beta version from
 * In the PDF viewer make a long press near the characters you want to recognize and drag the box. Release the press when you're done.
 * In the pop-up dialog, select the wanted kanjis and click on the "+" button.
 * double-click on the page to display the searched kanjis. To display more details, click on a kanji card.  
-* you can navigate through pages by clicking on the page, then on the page indicator.
+* you can navigate through pages by clicking on screen, then on the page indicator.
   
 [tokuraku-1.0.0-beta_showcase.webm](https://github.com/MounyaK/TokuRaku-Releases/assets/86240078/c215d889-5b18-4b88-a0c2-27007f2e204c)
 
